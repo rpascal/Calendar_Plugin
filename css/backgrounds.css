@@ -1,0 +1,68 @@
+﻿.blueBackground
+{
+    border-color:black;
+    background: url(../images/Backgrounds/Blue_Grain.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.greenBackground
+{
+    border-color:black;
+    background: url(../images/Backgrounds/Green_Grain.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.redBackground
+{
+    border-color:black;
+    background: url(../images/Backgrounds/Red_Grain.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.plainBackground
+{
+    border-color:black;
+    background: url(../images/Backgrounds/texture.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.purpleBackground
+{
+    border-color:black;
+    background: url(../images/Backgrounds/Texture_Purple.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.tanBackground {
+    border-color:black;
+    background: url(../images/Backgrounds/Texture_Tan.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.yellowBackground {
+    border-color:black;
+    background: url(../images/Backgrounds/Yellow_Grain.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.cream_Brick_Background {
+    background: url(../images/Backgrounds/Cream_Brick.JPG) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

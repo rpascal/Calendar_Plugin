@@ -1,0 +1,109 @@
+﻿html , form {
+    min-height:100%;
+}
+
+body {
+    color:black;
+    min-height:100%;
+
+}
+a {
+    text-decoration:none;
+    color:black;
+}
+a:hover {
+    text-decoration:none;
+    color:#ffffff;
+}
+.noBottomMargin {
+    margin-bottom: 0px;
+}
+.noTopMargin {
+    margin-top:0px;
+    padding-top:0px;
+
+}
+.crossFlame {
+    text-align:center;
+    max-height:100px;
+    padding-right:10px;
+}
+
+.contentDiv {
+    min-height:100%;
+    padding: 10px;
+}
+
+.paddingRight5px {
+    padding-right:5px;
+}
+
+.contact_Input_Addon {
+    border: 1px;
+}
+.contact_Submit {
+    font-size:18px;
+    border: 1px black;
+}
+
+.customUnorderedList
+{
+    list-style:none;
+    padding-left: 0;
+    padding-top:5px;
+    margin-left: 0;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+.customUnorderedList li
+{
+    list-style: none;
+    margin: 0;
+    padding: 0.25em;
+    border-top: 1px solid black;
+}
+
+.dailyVerse {
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+}
+.dailyVerse li {
+        list-style: none;
+    margin: 0;
+    padding: 0.25em;
+}
+
+.font-size18 {
+font-size:18px;
+}
+.font-size17 {
+font-size:17px;
+}
+.pHeading {
+  margin-bottom: 0px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 1.4;
+}
+
+.eventTabs > li.active > a,
+.eventTabs > li.active > a:hover,
+.eventTabs > li.active > a:focus {
+  background-color:#210202;
+  opacity:.75;
+}
+
+.eventTabs > li > a:hover,
+.eventTabs > li > a:focus {
+  background-color:black;
+  opacity:.45;
+  }
+
+.divEventControls {
+
+     float: none;
+    margin: 0 auto;
+}
+
